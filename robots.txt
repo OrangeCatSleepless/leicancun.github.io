@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /tags/
+Disallow: /xml/
+
+Sitemap: https://www.myql.fun/sitemap.xml
+Sitemap: https://www.myql.fun/sitemap.txt
